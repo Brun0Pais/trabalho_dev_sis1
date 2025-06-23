@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="/img/logo.jpg" alt="Diagrama" width="50%" height="50%">
+
+</p>
+
 # 1. Introdução
 
 ## Minimundo
