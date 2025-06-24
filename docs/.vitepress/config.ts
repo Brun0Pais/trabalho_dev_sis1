@@ -32,11 +32,9 @@ export default defineConfig({
           { text: '3- Principais Recursos e Funcionalidades', link: '/recursos-funcionalidades' },
           { text: '4- Diagrama Caso de uso', link: '/casos-uso' },
           { text: '5- Diagrama de Classes', link: '/diag-classe' },
-          { text: '6- introducao', link: '/introducao' },
-          { text: '7- introducao', link: '/introducao' },
-          { text: '8- Risco e mitigação', link: '/risco-mitigacao' },
-          { text: '9- Custo e orçamento', link: '/custo-orcamento' },
-          { text: '10- Considerações finais', link: '/consideracoes' },
+          { text: '6- Risco e mitigação', link: '/risco-mitigacao' },
+          { text: '7- Custo e orçamento', link: '/custo-orcamento' },
+          { text: '8- Considerações finais', link: '/consideracoes' },
 
           // ...
         ],
