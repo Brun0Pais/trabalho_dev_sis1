@@ -1,9 +1,23 @@
 ## 3. Principais Recursos e Funcionalidades
-Descreva os principais recursos e funcionalidades que serão implementados no software. Liste as principais capacidades que o sistema oferecerá aos usuários e descreva-as brevemente.
+Cadastro e login de clientes com segurança
+
+Visualização de cardápio virtual com salgados disponíveis
+
+Montagem e envio de pedidos personalizados
+
+Escolha de data, local de entrega e forma de pagamento (PIX/dinheiro)
+
+Acompanhamento do status do pedido em tempo real
+
+Histórico de pedidos anteriores
+
+Reagendamento ou cancelamento de pedidos
+
+Atualização de dados pessoais diretamente no sistema
+
+
 
 ## 3.1. Requisitos Funcionais
-[Insira uma lista de requisitos funcionais do sistema, descrevendo as principais funcionalidades que o sistema deve ter.]
- Requisitos Funcionais
 RF001 - Cadastro do cliente/login
  O sistema deve permitir que clientes se cadastrem e façam login.
 
@@ -82,7 +96,7 @@ RF019 - Visualizar pedidos fechados
  O administrador poderá acessar o histórico de pedidos já concluídos.
 
 ## 3.2 Requisitos Não Funcionais
-Requisitos Não Funcionais (RNF)
+
 RNF001 – Usabilidade
  O sistema deve apresentar uma interface intuitiva, facilitando a navegação tanto para clientes quanto para administradores, mesmo sem conhecimentos técnicos.
 
